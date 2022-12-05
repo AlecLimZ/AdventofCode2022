@@ -6,7 +6,7 @@
 /*   By: leng-chu <-chu@student.42kl.edu.my>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:07:53 by leng-chu          #+#    #+#             */
-/*   Updated: 2022/12/05 14:13:10 by leng-chu         ###   ########.fr       */
+/*   Updated: 2022/12/05 22:51:59 by leng-chu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -78,6 +78,7 @@ void	domove(int move, char *from, char *to)
 	}
 	m[p] = '\0';
 	strcat(to, m);
+	free(m);
 	printf("After - from: %s   to: %s\n\n", from, to);
 }
 
@@ -89,14 +90,14 @@ int main(int ac, char **av)
 	size_t	size = 42;
 	int		ret;
 
+	if (ac != 2)
+		return (1);
 	// custom
 	char **stack = (char**)malloc(sizeof(char*) * 11);
 	char code[42] = "@abcdefghi";
 	initstack(stack);
 
 	// must
-	if (ac != 2)
-		return (1);
 	string = (char *)malloc(sizeof(char) * 43);
 	if (!string)
 		exit(1);
@@ -140,6 +141,9 @@ int main(int ac, char **av)
 		printf("%s\n", stack[i]);
 	// must
 	fclose(fptr);
+	for (int i = 0; stack[i]; ++i)
+		free(stack[i]);
+	free(stack);
 	free(string);
 	return (0);
 }
