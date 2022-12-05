@@ -1,0 +1,2022 @@
+move: 1   from: 5   to: 2
+Before - from: WFSBGQVM   to: GWM
+After - from: WFSBGQV   to: GWMM
+
+move: 7   from: 7   to: 1
+Before - from: HBNCDZGV   to: ZTFRWJG
+After - from: H   to: ZTFRWJGBNCDZGV
+
+move: 1   from: 1   to: 7
+Before - from: ZTFRWJGBNCDZGV   to: H
+After - from: ZTFRWJGBNCDZG   to: HV
+
+move: 1   from: 4   to: 1
+Before - from: JRCNW   to: ZTFRWJGBNCDZG
+After - from: JRCN   to: ZTFRWJGBNCDZGW
+
+move: 7   from: 9   to: 1
+Before - from: GPNWCJDL   to: ZTFRWJGBNCDZGW
+After - from: G   to: ZTFRWJGBNCDZGWPNWCJDL
+
+move: 1   from: 3   to: 7
+Before - from: JNHG   to: HV
+After - from: JNH   to: HVG
+
+move: 4   from: 5   to: 4
+Before - from: WFSBGQV   to: JRCN
+After - from: WFS   to: JRCNBGQV
+
+move: 6   from: 4   to: 9
+Before - from: JRCNBGQV   to: G
+After - from: JR   to: GCNBGQV
+
+move: 2   from: 7   to: 6
+Before - from: HVG   to: SRTDVWC
+After - from: H   to: SRTDVWCVG
+
+move: 6   from: 8   to: 2
+Before - from: SJNMGC   to: GWMM
+After - from:    to: GWMMSJNMGC
+
+move: 2   from: 4   to: 5
+Before - from: JR   to: WFS
+After - from:    to: WFSJR
+
+move: 2   from: 3   to: 7
+Before - from: JNH   to: H
+After - from: J   to: HNH
+
+move: 11   from: 1   to: 4
+Before - from: ZTFRWJGBNCDZGWPNWCJDL   to: 
+After - from: ZTFRWJGBNC   to: DZGWPNWCJDL
+
+move: 6   from: 6   to: 1
+Before - from: SRTDVWCVG   to: ZTFRWJGBNC
+After - from: SRT   to: ZTFRWJGBNCDVWCVG
+
+move: 3   from: 5   to: 3
+Before - from: WFSJR   to: J
+After - from: WF   to: JSJR
+
+move: 5   from: 9   to: 8
+Before - from: GCNBGQV   to: 
+After - from: GC   to: NBGQV
+
+move: 1   from: 2   to: 3
+Before - from: GWMMSJNMGC   to: JSJR
+After - from: GWMMSJNMG   to: JSJRC
+
+move: 2   from: 7   to: 9
+Before - from: HNH   to: GC
+After - from: H   to: GCNH
+
+move: 7   from: 1   to: 2
+Before - from: ZTFRWJGBNCDVWCVG   to: GWMMSJNMG
+After - from: ZTFRWJGBN   to: GWMMSJNMGCDVWCVG
+
+move: 1   from: 5   to: 3
+Before - from: WF   to: JSJRC
+After - from: W   to: JSJRCF
+
+move: 1   from: 5   to: 3
+Before - from: W   to: JSJRCF
+After - from:    to: JSJRCFW
+
+move: 5   from: 8   to: 5
+Before - from: NBGQV   to: 
+After - from:    to: NBGQV
+
+move: 3   from: 5   to: 4
+Before - from: NBGQV   to: DZGWPNWCJDL
+After - from: NB   to: DZGWPNWCJDLGQV
+
+move: 1   from: 1   to: 7
+Before - from: ZTFRWJGBN   to: H
+After - from: ZTFRWJGB   to: HN
+
+move: 1   from: 3   to: 8
+Before - from: JSJRCFW   to: 
+After - from: JSJRCF   to: W
+
+move: 2   from: 6   to: 3
+Before - from: SRT   to: JSJRCF
+After - from: S   to: JSJRCFRT
+
+move: 3   from: 3   to: 4
+Before - from: JSJRCFRT   to: DZGWPNWCJDLGQV
+After - from: JSJRC   to: DZGWPNWCJDLGQVFRT
+
+move: 1   from: 6   to: 2
+Before - from: S   to: GWMMSJNMGCDVWCVG
+After - from:    to: GWMMSJNMGCDVWCVGS
+
+move: 5   from: 4   to: 2
+Before - from: DZGWPNWCJDLGQVFRT   to: GWMMSJNMGCDVWCVGS
+After - from: DZGWPNWCJDLG   to: GWMMSJNMGCDVWCVGSQVFRT
+
+move: 2   from: 5   to: 3
+Before - from: NB   to: JSJRC
+After - from:    to: JSJRCNB
+
+move: 2   from: 7   to: 1
+Before - from: HN   to: ZTFRWJGB
+After - from:    to: ZTFRWJGBHN
+
+move: 1   from: 8   to: 1
+Before - from: W   to: ZTFRWJGBHN
+After - from:    to: ZTFRWJGBHNW
+
+move: 7   from: 1   to: 7
+Before - from: ZTFRWJGBHNW   to: 
+After - from: ZTFR   to: WJGBHNW
+
+move: 4   from: 4   to: 2
+Before - from: DZGWPNWCJDLG   to: GWMMSJNMGCDVWCVGSQVFRT
+After - from: DZGWPNWC   to: GWMMSJNMGCDVWCVGSQVFRTJDLG
+
+move: 7   from: 4   to: 1
+Before - from: DZGWPNWC   to: ZTFR
+After - from: D   to: ZTFRZGWPNWC
+
+move: 10   from: 1   to: 5
+Before - from: ZTFRZGWPNWC   to: 
+After - from: Z   to: TFRZGWPNWC
+
+move: 10   from: 5   to: 2
+Before - from: TFRZGWPNWC   to: GWMMSJNMGCDVWCVGSQVFRTJDLG
+After - from:    to: GWMMSJNMGCDVWCVGSQVFRTJDLGTFRZGWPNWC
+
+move: 11   from: 2   to: 3
+Before - from: GWMMSJNMGCDVWCVGSQVFRTJDLGTFRZGWPNWC   to: JSJRCNB
+After - from: GWMMSJNMGCDVWCVGSQVFRTJDL   to: JSJRCNBGTFRZGWPNWC
+
+move: 1   from: 1   to: 6
+Before - from: Z   to: 
+After - from:    to: Z
+
+move: 1   from: 4   to: 7
+Before - from: D   to: WJGBHNW
+After - from:    to: WJGBHNWD
+
+move: 4   from: 7   to: 1
+Before - from: WJGBHNWD   to: 
+After - from: WJGB   to: HNWD
+
+move: 6   from: 2   to: 5
+Before - from: GWMMSJNMGCDVWCVGSQVFRTJDL   to: 
+After - from: GWMMSJNMGCDVWCVGSQV   to: FRTJDL
+
+move: 2   from: 1   to: 3
+Before - from: HNWD   to: JSJRCNBGTFRZGWPNWC
+After - from: HN   to: JSJRCNBGTFRZGWPNWCWD
+
+move: 1   from: 9   to: 5
+Before - from: GCNH   to: FRTJDL
+After - from: GCN   to: FRTJDLH
+
+move: 2   from: 9   to: 6
+Before - from: GCN   to: Z
+After - from: G   to: ZCN
+
+move: 1   from: 6   to: 1
+Before - from: ZCN   to: HN
+After - from: ZC   to: HNN
+
+move: 3   from: 5   to: 4
+Before - from: FRTJDLH   to: 
+After - from: FRTJ   to: DLH
+
+move: 20   from: 3   to: 9
+Before - from: JSJRCNBGTFRZGWPNWCWD   to: G
+After - from:    to: GJSJRCNBGTFRZGWPNWCWD
+
+move: 3   from: 7   to: 1
+Before - from: WJGB   to: HNN
+After - from: W   to: HNNJGB
+
+move: 3   from: 5   to: 2
+Before - from: FRTJ   to: GWMMSJNMGCDVWCVGSQV
+After - from: F   to: GWMMSJNMGCDVWCVGSQVRTJ
+
+move: 3   from: 4   to: 8
+Before - from: DLH   to: 
+After - from:    to: DLH
+
+move: 3   from: 1   to: 3
+Before - from: HNNJGB   to: 
+After - from: HNN   to: JGB
+
+move: 3   from: 1   to: 2
+Before - from: HNN   to: GWMMSJNMGCDVWCVGSQVRTJ
+After - from:    to: GWMMSJNMGCDVWCVGSQVRTJHNN
+
+move: 2   from: 6   to: 1
+Before - from: ZC   to: 
+After - from:    to: ZC
+
+move: 10   from: 9   to: 6
+Before - from: GJSJRCNBGTFRZGWPNWCWD   to: 
+After - from: GJSJRCNBGTF   to: RZGWPNWCWD
+
+move: 6   from: 6   to: 7
+Before - from: RZGWPNWCWD   to: W
+After - from: RZGW   to: WPNWCWD
+
+move: 4   from: 6   to: 3
+Before - from: RZGW   to: JGB
+After - from:    to: JGBRZGW
+
+move: 11   from: 2   to: 6
+Before - from: GWMMSJNMGCDVWCVGSQVRTJHNN   to: 
+After - from: GWMMSJNMGCDVWC   to: VGSQVRTJHNN
+
+move: 1   from: 8   to: 9
+Before - from: DLH   to: GJSJRCNBGTF
+After - from: DL   to: GJSJRCNBGTFH
+
+move: 13   from: 2   to: 3
+Before - from: GWMMSJNMGCDVWC   to: JGBRZGW
+After - from: G   to: JGBRZGWWMMSJNMGCDVWC
+
+move: 1   from: 1   to: 9
+Before - from: ZC   to: GJSJRCNBGTFH
+After - from: Z   to: GJSJRCNBGTFHC
+
+move: 1   from: 9   to: 4
+Before - from: GJSJRCNBGTFHC   to: 
+After - from: GJSJRCNBGTFH   to: C
+
+move: 1   from: 8   to: 2
+Before - from: DL   to: G
+After - from: D   to: GL
+
+move: 1   from: 8   to: 2
+Before - from: D   to: GL
+After - from:    to: GLD
+
+move: 4   from: 7   to: 8
+Before - from: WPNWCWD   to: 
+After - from: WPN   to: WCWD
+
+move: 8   from: 6   to: 9
+Before - from: VGSQVRTJHNN   to: GJSJRCNBGTFH
+After - from: VGS   to: GJSJRCNBGTFHQVRTJHNN
+
+move: 3   from: 2   to: 3
+Before - from: GLD   to: JGBRZGWWMMSJNMGCDVWC
+After - from:    to: JGBRZGWWMMSJNMGCDVWCGLD
+
+move: 3   from: 8   to: 4
+Before - from: WCWD   to: C
+After - from: W   to: CCWD
+
+move: 11   from: 9   to: 2
+Before - from: GJSJRCNBGTFHQVRTJHNN   to: 
+After - from: GJSJRCNBG   to: TFHQVRTJHNN
+
+move: 7   from: 9   to: 6
+Before - from: GJSJRCNBG   to: VGS
+After - from: GJ   to: VGSSJRCNBG
+
+move: 1   from: 1   to: 5
+Before - from: Z   to: F
+After - from:    to: FZ
+
+move: 4   from: 4   to: 9
+Before - from: CCWD   to: GJ
+After - from:    to: GJCCWD
+
+move: 21   from: 3   to: 1
+Before - from: JGBRZGWWMMSJNMGCDVWCGLD   to: 
+After - from: JG   to: BRZGWWMMSJNMGCDVWCGLD
+
+move: 1   from: 3   to: 9
+Before - from: JG   to: GJCCWD
+After - from: J   to: GJCCWDG
+
+move: 7   from: 6   to: 3
+Before - from: VGSSJRCNBG   to: J
+After - from: VGS   to: JSJRCNBG
+
+move: 6   from: 1   to: 2
+Before - from: BRZGWWMMSJNMGCDVWCGLD   to: TFHQVRTJHNN
+After - from: BRZGWWMMSJNMGCD   to: TFHQVRTJHNNVWCGLD
+
+move: 13   from: 1   to: 5
+Before - from: BRZGWWMMSJNMGCD   to: FZ
+After - from: BR   to: FZZGWWMMSJNMGCD
+
+move: 2   from: 1   to: 2
+Before - from: BR   to: TFHQVRTJHNNVWCGLD
+After - from:    to: TFHQVRTJHNNVWCGLDBR
+
+move: 3   from: 9   to: 3
+Before - from: GJCCWDG   to: JSJRCNBG
+After - from: GJCC   to: JSJRCNBGWDG
+
+move: 2   from: 2   to: 3
+Before - from: TFHQVRTJHNNVWCGLDBR   to: JSJRCNBGWDG
+After - from: TFHQVRTJHNNVWCGLD   to: JSJRCNBGWDGBR
+
+move: 2   from: 6   to: 4
+Before - from: VGS   to: 
+After - from: V   to: GS
+
+move: 3   from: 3   to: 5
+Before - from: JSJRCNBGWDGBR   to: FZZGWWMMSJNMGCD
+After - from: JSJRCNBGWD   to: FZZGWWMMSJNMGCDGBR
+
+move: 13   from: 5   to: 2
+Before - from: FZZGWWMMSJNMGCDGBR   to: TFHQVRTJHNNVWCGLD
+After - from: FZZGW   to: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBR
+
+move: 5   from: 3   to: 4
+Before - from: JSJRCNBGWD   to: GS
+After - from: JSJRC   to: GSNBGWD
+
+move: 2   from: 7   to: 9
+Before - from: WPN   to: GJCC
+After - from: W   to: GJCCPN
+
+move: 2   from: 4   to: 2
+Before - from: GSNBGWD   to: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBR
+After - from: GSNBG   to: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBRWD
+
+move: 1   from: 3   to: 8
+Before - from: JSJRC   to: W
+After - from: JSJR   to: WC
+
+move: 1   from: 6   to: 1
+Before - from: V   to: 
+After - from:    to: V
+
+move: 4   from: 3   to: 7
+Before - from: JSJR   to: W
+After - from:    to: WJSJR
+
+move: 2   from: 5   to: 7
+Before - from: FZZGW   to: WJSJR
+After - from: FZZ   to: WJSJRGW
+
+move: 1   from: 7   to: 2
+Before - from: WJSJRGW   to: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBRWD
+After - from: WJSJRG   to: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBRWDW
+
+move: 1   from: 5   to: 9
+Before - from: FZZ   to: GJCCPN
+After - from: FZ   to: GJCCPNZ
+
+move: 4   from: 7   to: 8
+Before - from: WJSJRG   to: WC
+After - from: WJ   to: WCSJRG
+
+move: 1   from: 1   to: 9
+Before - from: V   to: GJCCPNZ
+After - from:    to: GJCCPNZV
+
+move: 6   from: 8   to: 1
+Before - from: WCSJRG   to: 
+After - from:    to: WCSJRG
+
+move: 4   from: 4   to: 8
+Before - from: GSNBG   to: 
+After - from: G   to: SNBG
+
+move: 25   from: 2   to: 9
+Before - from: TFHQVRTJHNNVWCGLDWMMSJNMGCDGBRWDW   to: GJCCPNZV
+After - from: TFHQVRTJ   to: GJCCPNZVHNNVWCGLDWMMSJNMGCDGBRWDW
+
+move: 1   from: 4   to: 3
+Before - from: G   to: 
+After - from:    to: G
+
+move: 1   from: 3   to: 7
+Before - from: G   to: WJ
+After - from:    to: WJG
+
+move: 4   from: 8   to: 1
+Before - from: SNBG   to: WCSJRG
+After - from:    to: WCSJRGSNBG
+
+move: 1   from: 7   to: 4
+Before - from: WJG   to: 
+After - from: WJ   to: G
+
+move: 3   from: 1   to: 6
+Before - from: WCSJRGSNBG   to: 
+After - from: WCSJRGS   to: NBG
+
+move: 5   from: 2   to: 1
+Before - from: TFHQVRTJ   to: WCSJRGS
+After - from: TFH   to: WCSJRGSQVRTJ
+
+move: 1   from: 5   to: 1
+Before - from: FZ   to: WCSJRGSQVRTJ
+After - from: F   to: WCSJRGSQVRTJZ
+
+move: 1   from: 4   to: 1
+Before - from: G   to: WCSJRGSQVRTJZ
+After - from:    to: WCSJRGSQVRTJZG
+
+move: 24   from: 9   to: 6
+Before - from: GJCCPNZVHNNVWCGLDWMMSJNMGCDGBRWDW   to: NBG
+After - from: GJCCPNZVH   to: NBGNNVWCGLDWMMSJNMGCDGBRWDW
+
+move: 9   from: 1   to: 6
+Before - from: WCSJRGSQVRTJZG   to: NBGNNVWCGLDWMMSJNMGCDGBRWDW
+After - from: WCSJR   to: NBGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZG
+
+move: 1   from: 5   to: 6
+Before - from: F   to: NBGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZG
+After - from:    to: NBGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGF
+
+move: 1   from: 1   to: 9
+Before - from: WCSJR   to: GJCCPNZVH
+After - from: WCSJ   to: GJCCPNZVHR
+
+move: 1   from: 2   to: 8
+Before - from: TFH   to: 
+After - from: TF   to: H
+
+move: 1   from: 8   to: 1
+Before - from: H   to: WCSJ
+After - from:    to: WCSJH
+
+move: 3   from: 1   to: 8
+Before - from: WCSJH   to: 
+After - from: WC   to: SJH
+
+move: 36   from: 6   to: 3
+Before - from: NBGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGF   to: 
+After - from: N   to: BGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGF
+
+move: 2   from: 7   to: 3
+Before - from: WJ   to: BGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGF
+After - from:    to: BGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGFWJ
+
+move: 1   from: 2   to: 5
+Before - from: TF   to: 
+After - from: T   to: F
+
+move: 1   from: 5   to: 2
+Before - from: F   to: T
+After - from:    to: TF
+
+move: 1   from: 6   to: 2
+Before - from: N   to: TF
+After - from:    to: TFN
+
+move: 10   from: 3   to: 2
+Before - from: BGNNVWCGLDWMMSJNMGCDGBRWDWGSQVRTJZGFWJ   to: TFN
+After - from: BGNNVWCGLDWMMSJNMGCDGBRWDWGS   to: TFNQVRTJZGFWJ
+
+move: 3   from: 8   to: 2
+Before - from: SJH   to: TFNQVRTJZGFWJ
+After - from:    to: TFNQVRTJZGFWJSJH
+
+move: 1   from: 1   to: 7
+Before - from: WC   to: 
+After - from: W   to: C
+
+move: 2   from: 2   to: 6
+Before - from: TFNQVRTJZGFWJSJH   to: 
+After - from: TFNQVRTJZGFWJS   to: JH
+
+move: 10   from: 9   to: 1
+Before - from: GJCCPNZVHR   to: W
+After - from:    to: WGJCCPNZVHR
+
+move: 2   from: 6   to: 4
+Before - from: JH   to: 
+After - from:    to: JH
+
+move: 13   from: 3   to: 4
+Before - from: BGNNVWCGLDWMMSJNMGCDGBRWDWGS   to: JH
+After - from: BGNNVWCGLDWMMSJ   to: JHNMGCDGBRWDWGS
+
+move: 8   from: 3   to: 7
+Before - from: BGNNVWCGLDWMMSJ   to: C
+After - from: BGNNVWC   to: CGLDWMMSJ
+
+move: 8   from: 1   to: 2
+Before - from: WGJCCPNZVHR   to: TFNQVRTJZGFWJS
+After - from: WGJ   to: TFNQVRTJZGFWJSCCPNZVHR
+
+move: 5   from: 3   to: 8
+Before - from: BGNNVWC   to: 
+After - from: BG   to: NNVWC
+
+move: 3   from: 1   to: 9
+Before - from: WGJ   to: 
+After - from:    to: WGJ
+
+move: 1   from: 7   to: 1
+Before - from: CGLDWMMSJ   to: 
+After - from: CGLDWMMS   to: J
+
+move: 7   from: 4   to: 5
+Before - from: JHNMGCDGBRWDWGS   to: 
+After - from: JHNMGCDG   to: BRWDWGS
+
+move: 1   from: 1   to: 2
+Before - from: J   to: TFNQVRTJZGFWJSCCPNZVHR
+After - from:    to: TFNQVRTJZGFWJSCCPNZVHRJ
+
+move: 14   from: 2   to: 6
+Before - from: TFNQVRTJZGFWJSCCPNZVHRJ   to: 
+After - from: TFNQVRTJZ   to: GFWJSCCPNZVHRJ
+
+move: 2   from: 7   to: 2
+Before - from: CGLDWMMS   to: TFNQVRTJZ
+After - from: CGLDWM   to: TFNQVRTJZMS
+
+move: 8   from: 4   to: 8
+Before - from: JHNMGCDG   to: NNVWC
+After - from:    to: NNVWCJHNMGCDG
+
+move: 3   from: 7   to: 9
+Before - from: CGLDWM   to: WGJ
+After - from: CGL   to: WGJDWM
+
+move: 2   from: 9   to: 8
+Before - from: WGJDWM   to: NNVWCJHNMGCDG
+After - from: WGJD   to: NNVWCJHNMGCDGWM
+
+move: 2   from: 7   to: 1
+Before - from: CGL   to: 
+After - from: C   to: GL
+
+move: 1   from: 7   to: 8
+Before - from: C   to: NNVWCJHNMGCDGWM
+After - from:    to: NNVWCJHNMGCDGWMC
+
+move: 1   from: 6   to: 8
+Before - from: GFWJSCCPNZVHRJ   to: NNVWCJHNMGCDGWMC
+After - from: GFWJSCCPNZVHR   to: NNVWCJHNMGCDGWMCJ
+
+move: 1   from: 9   to: 3
+Before - from: WGJD   to: BG
+After - from: WGJ   to: BGD
+
+move: 4   from: 2   to: 7
+Before - from: TFNQVRTJZMS   to: 
+After - from: TFNQVRT   to: JZMS
+
+move: 6   from: 6   to: 1
+Before - from: GFWJSCCPNZVHR   to: GL
+After - from: GFWJSCC   to: GLPNZVHR
+
+move: 3   from: 1   to: 9
+Before - from: GLPNZVHR   to: WGJ
+After - from: GLPNZ   to: WGJVHR
+
+move: 1   from: 1   to: 7
+Before - from: GLPNZ   to: JZMS
+After - from: GLPN   to: JZMSZ
+
+move: 6   from: 5   to: 6
+Before - from: BRWDWGS   to: GFWJSCC
+After - from: B   to: GFWJSCCRWDWGS
+
+move: 1   from: 5   to: 2
+Before - from: B   to: TFNQVRT
+After - from:    to: TFNQVRTB
+
+move: 1   from: 6   to: 8
+Before - from: GFWJSCCRWDWGS   to: NNVWCJHNMGCDGWMCJ
+After - from: GFWJSCCRWDWG   to: NNVWCJHNMGCDGWMCJS
+
+move: 5   from: 7   to: 5
+Before - from: JZMSZ   to: 
+After - from:    to: JZMSZ
+
+move: 1   from: 2   to: 9
+Before - from: TFNQVRTB   to: WGJVHR
+After - from: TFNQVRT   to: WGJVHRB
+
+move: 2   from: 3   to: 4
+Before - from: BGD   to: 
+After - from: B   to: GD
+
+move: 9   from: 8   to: 4
+Before - from: NNVWCJHNMGCDGWMCJS   to: GD
+After - from: NNVWCJHNM   to: GDGCDGWMCJS
+
+move: 8   from: 4   to: 8
+Before - from: GDGCDGWMCJS   to: NNVWCJHNM
+After - from: GDG   to: NNVWCJHNMCDGWMCJS
+
+move: 6   from: 6   to: 7
+Before - from: GFWJSCCRWDWG   to: 
+After - from: GFWJSC   to: CRWDWG
+
+move: 5   from: 6   to: 4
+Before - from: GFWJSC   to: GDG
+After - from: G   to: GDGFWJSC
+
+move: 7   from: 9   to: 7
+Before - from: WGJVHRB   to: CRWDWG
+After - from:    to: CRWDWGWGJVHRB
+
+move: 7   from: 8   to: 7
+Before - from: NNVWCJHNMCDGWMCJS   to: CRWDWGWGJVHRB
+After - from: NNVWCJHNMC   to: CRWDWGWGJVHRBDGWMCJS
+
+move: 5   from: 8   to: 4
+Before - from: NNVWCJHNMC   to: GDGFWJSC
+After - from: NNVWC   to: GDGFWJSCJHNMC
+
+move: 3   from: 1   to: 6
+Before - from: GLPN   to: G
+After - from: G   to: GLPN
+
+move: 1   from: 2   to: 7
+Before - from: TFNQVRT   to: CRWDWGWGJVHRBDGWMCJS
+After - from: TFNQVR   to: CRWDWGWGJVHRBDGWMCJST
+
+move: 1   from: 1   to: 4
+Before - from: G   to: GDGFWJSCJHNMC
+After - from:    to: GDGFWJSCJHNMCG
+
+move: 4   from: 5   to: 2
+Before - from: JZMSZ   to: TFNQVR
+After - from: J   to: TFNQVRZMSZ
+
+move: 2   from: 6   to: 9
+Before - from: GLPN   to: 
+After - from: GL   to: PN
+
+move: 1   from: 3   to: 7
+Before - from: B   to: CRWDWGWGJVHRBDGWMCJST
+After - from:    to: CRWDWGWGJVHRBDGWMCJSTB
+
+move: 1   from: 5   to: 1
+Before - from: J   to: 
+After - from:    to: J
+
+move: 1   from: 8   to: 9
+Before - from: NNVWC   to: PN
+After - from: NNVW   to: PNC
+
+move: 1   from: 6   to: 1
+Before - from: GL   to: J
+After - from: G   to: JL
+
+move: 1   from: 2   to: 7
+Before - from: TFNQVRZMSZ   to: CRWDWGWGJVHRBDGWMCJSTB
+After - from: TFNQVRZMS   to: CRWDWGWGJVHRBDGWMCJSTBZ
+
+move: 2   from: 8   to: 1
+Before - from: NNVW   to: JL
+After - from: NN   to: JLVW
+
+move: 2   from: 1   to: 8
+Before - from: JLVW   to: NN
+After - from: JL   to: NNVW
+
+move: 3   from: 2   to: 4
+Before - from: TFNQVRZMS   to: GDGFWJSCJHNMCG
+After - from: TFNQVR   to: GDGFWJSCJHNMCGZMS
+
+move: 1   from: 6   to: 1
+Before - from: G   to: JL
+After - from:    to: JLG
+
+move: 17   from: 4   to: 1
+Before - from: GDGFWJSCJHNMCGZMS   to: JLG
+After - from:    to: JLGGDGFWJSCJHNMCGZMS
+
+move: 3   from: 2   to: 7
+Before - from: TFNQVR   to: CRWDWGWGJVHRBDGWMCJSTBZ
+After - from: TFN   to: CRWDWGWGJVHRBDGWMCJSTBZQVR
+
+move: 13   from: 7   to: 8
+Before - from: CRWDWGWGJVHRBDGWMCJSTBZQVR   to: NNVW
+After - from: CRWDWGWGJVHRB   to: NNVWDGWMCJSTBZQVR
+
+move: 1   from: 2   to: 6
+Before - from: TFN   to: 
+After - from: TF   to: N
+
+move: 14   from: 1   to: 4
+Before - from: JLGGDGFWJSCJHNMCGZMS   to: 
+After - from: JLGGDG   to: FWJSCJHNMCGZMS
+
+move: 2   from: 8   to: 5
+Before - from: NNVWDGWMCJSTBZQVR   to: 
+After - from: NNVWDGWMCJSTBZQ   to: VR
+
+move: 1   from: 9   to: 7
+Before - from: PNC   to: CRWDWGWGJVHRB
+After - from: PN   to: CRWDWGWGJVHRBC
+
+move: 2   from: 5   to: 4
+Before - from: VR   to: FWJSCJHNMCGZMS
+After - from:    to: FWJSCJHNMCGZMSVR
+
+move: 1   from: 9   to: 3
+Before - from: PN   to: 
+After - from: P   to: N
+
+move: 5   from: 1   to: 5
+Before - from: JLGGDG   to: 
+After - from: J   to: LGGDG
+
+move: 3   from: 4   to: 1
+Before - from: FWJSCJHNMCGZMSVR   to: J
+After - from: FWJSCJHNMCGZM   to: JSVR
+
+move: 1   from: 3   to: 2
+Before - from: N   to: TF
+After - from:    to: TFN
+
+move: 7   from: 4   to: 5
+Before - from: FWJSCJHNMCGZM   to: LGGDG
+After - from: FWJSCJ   to: LGGDGHNMCGZM
+
+move: 9   from: 7   to: 8
+Before - from: CRWDWGWGJVHRBC   to: NNVWDGWMCJSTBZQ
+After - from: CRWDW   to: NNVWDGWMCJSTBZQGWGJVHRBC
+
+move: 5   from: 4   to: 2
+Before - from: FWJSCJ   to: TFN
+After - from: F   to: TFNWJSCJ
+
+move: 1   from: 1   to: 3
+Before - from: JSVR   to: 
+After - from: JSV   to: R
+
+move: 1   from: 9   to: 2
+Before - from: P   to: TFNWJSCJ
+After - from:    to: TFNWJSCJP
+
+move: 15   from: 8   to: 6
+Before - from: NNVWDGWMCJSTBZQGWGJVHRBC   to: N
+After - from: NNVWDGWMC   to: NJSTBZQGWGJVHRBC
+
+move: 1   from: 3   to: 7
+Before - from: R   to: CRWDW
+After - from:    to: CRWDWR
+
+move: 11   from: 6   to: 5
+Before - from: NJSTBZQGWGJVHRBC   to: LGGDGHNMCGZM
+After - from: NJSTB   to: LGGDGHNMCGZMZQGWGJVHRBC
+
+move: 1   from: 4   to: 8
+Before - from: F   to: NNVWDGWMC
+After - from:    to: NNVWDGWMCF
+
+move: 3   from: 1   to: 7
+Before - from: JSV   to: CRWDWR
+After - from:    to: CRWDWRJSV
+
+move: 5   from: 7   to: 5
+Before - from: CRWDWRJSV   to: LGGDGHNMCGZMZQGWGJVHRBC
+After - from: CRWD   to: LGGDGHNMCGZMZQGWGJVHRBCWRJSV
+
+move: 27   from: 5   to: 1
+Before - from: LGGDGHNMCGZMZQGWGJVHRBCWRJSV   to: 
+After - from: L   to: GGDGHNMCGZMZQGWGJVHRBCWRJSV
+
+move: 8   from: 8   to: 4
+Before - from: NNVWDGWMCF   to: 
+After - from: NN   to: VWDGWMCF
+
+move: 1   from: 2   to: 6
+Before - from: TFNWJSCJP   to: NJSTB
+After - from: TFNWJSCJ   to: NJSTBP
+
+move: 3   from: 6   to: 1
+Before - from: NJSTBP   to: GGDGHNMCGZMZQGWGJVHRBCWRJSV
+After - from: NJS   to: GGDGHNMCGZMZQGWGJVHRBCWRJSVTBP
+
+move: 9   from: 1   to: 5
+Before - from: GGDGHNMCGZMZQGWGJVHRBCWRJSVTBP   to: L
+After - from: GGDGHNMCGZMZQGWGJVHRB   to: LCWRJSVTBP
+
+move: 5   from: 5   to: 7
+Before - from: LCWRJSVTBP   to: CRWD
+After - from: LCWRJ   to: CRWDSVTBP
+
+move: 2   from: 2   to: 1
+Before - from: TFNWJSCJ   to: GGDGHNMCGZMZQGWGJVHRB
+After - from: TFNWJS   to: GGDGHNMCGZMZQGWGJVHRBCJ
+
+move: 2   from: 5   to: 4
+Before - from: LCWRJ   to: VWDGWMCF
+After - from: LCW   to: VWDGWMCFRJ
+
+move: 6   from: 7   to: 6
+Before - from: CRWDSVTBP   to: NJS
+After - from: CRW   to: NJSDSVTBP
+
+move: 1   from: 5   to: 2
+Before - from: LCW   to: TFNWJS
+After - from: LC   to: TFNWJSW
+
+move: 1   from: 7   to: 8
+Before - from: CRW   to: NN
+After - from: CR   to: NNW
+
+move: 4   from: 6   to: 8
+Before - from: NJSDSVTBP   to: NNW
+After - from: NJSDS   to: NNWVTBP
+
+move: 5   from: 6   to: 3
+Before - from: NJSDS   to: 
+After - from:    to: NJSDS
+
+move: 1   from: 7   to: 1
+Before - from: CR   to: GGDGHNMCGZMZQGWGJVHRBCJ
+After - from: C   to: GGDGHNMCGZMZQGWGJVHRBCJR
+
+move: 5   from: 4   to: 3
+Before - from: VWDGWMCFRJ   to: NJSDS
+After - from: VWDGW   to: NJSDSMCFRJ
+
+move: 6   from: 8   to: 2
+Before - from: NNWVTBP   to: TFNWJSW
+After - from: N   to: TFNWJSWNWVTBP
+
+move: 1   from: 7   to: 8
+Before - from: C   to: N
+After - from:    to: NC
+
+move: 2   from: 8   to: 9
+Before - from: NC   to: 
+After - from:    to: NC
+
+move: 10   from: 3   to: 5
+Before - from: NJSDSMCFRJ   to: LC
+After - from:    to: LCNJSDSMCFRJ
+
+move: 9   from: 5   to: 2
+Before - from: LCNJSDSMCFRJ   to: TFNWJSWNWVTBP
+After - from: LCN   to: TFNWJSWNWVTBPJSDSMCFRJ
+
+move: 3   from: 4   to: 8
+Before - from: VWDGW   to: 
+After - from: VW   to: DGW
+
+move: 1   from: 5   to: 7
+Before - from: LCN   to: 
+After - from: LC   to: N
+
+move: 2   from: 9   to: 7
+Before - from: NC   to: N
+After - from:    to: NNC
+
+move: 2   from: 8   to: 3
+Before - from: DGW   to: 
+After - from: D   to: GW
+
+move: 1   from: 3   to: 8
+Before - from: GW   to: D
+After - from: G   to: DW
+
+move: 19   from: 1   to: 7
+Before - from: GGDGHNMCGZMZQGWGJVHRBCJR   to: NNC
+After - from: GGDGH   to: NNCNMCGZMZQGWGJVHRBCJR
+
+move: 4   from: 2   to: 7
+Before - from: TFNWJSWNWVTBPJSDSMCFRJ   to: NNCNMCGZMZQGWGJVHRBCJR
+After - from: TFNWJSWNWVTBPJSDSM   to: NNCNMCGZMZQGWGJVHRBCJRCFRJ
+
+move: 2   from: 4   to: 3
+Before - from: VW   to: G
+After - from:    to: GVW
+
+move: 3   from: 3   to: 2
+Before - from: GVW   to: TFNWJSWNWVTBPJSDSM
+After - from:    to: TFNWJSWNWVTBPJSDSMGVW
+
+move: 2   from: 8   to: 3
+Before - from: DW   to: 
+After - from:    to: DW
+
+move: 2   from: 5   to: 8
+Before - from: LC   to: 
+After - from:    to: LC
+
+move: 1   from: 2   to: 3
+Before - from: TFNWJSWNWVTBPJSDSMGVW   to: DW
+After - from: TFNWJSWNWVTBPJSDSMGV   to: DWW
+
+move: 2   from: 8   to: 3
+Before - from: LC   to: DWW
+After - from:    to: DWWLC
+
+move: 5   from: 2   to: 5
+Before - from: TFNWJSWNWVTBPJSDSMGV   to: 
+After - from: TFNWJSWNWVTBPJS   to: DSMGV
+
+move: 9   from: 7   to: 5
+Before - from: NNCNMCGZMZQGWGJVHRBCJRCFRJ   to: DSMGV
+After - from: NNCNMCGZMZQGWGJVH   to: DSMGVRBCJRCFRJ
+
+move: 13   from: 5   to: 9
+Before - from: DSMGVRBCJRCFRJ   to: 
+After - from: D   to: SMGVRBCJRCFRJ
+
+move: 7   from: 2   to: 6
+Before - from: TFNWJSWNWVTBPJS   to: 
+After - from: TFNWJSWN   to: WVTBPJS
+
+move: 2   from: 6   to: 9
+Before - from: WVTBPJS   to: SMGVRBCJRCFRJ
+After - from: WVTBP   to: SMGVRBCJRCFRJJS
+
+move: 1   from: 2   to: 1
+Before - from: TFNWJSWN   to: GGDGH
+After - from: TFNWJSW   to: GGDGHN
+
+move: 5   from: 6   to: 7
+Before - from: WVTBP   to: NNCNMCGZMZQGWGJVH
+After - from:    to: NNCNMCGZMZQGWGJVHWVTBP
+
+move: 1   from: 5   to: 7
+Before - from: D   to: NNCNMCGZMZQGWGJVHWVTBP
+After - from:    to: NNCNMCGZMZQGWGJVHWVTBPD
+
+move: 6   from: 1   to: 2
+Before - from: GGDGHN   to: TFNWJSW
+After - from:    to: TFNWJSWGGDGHN
+
+move: 5   from: 3   to: 6
+Before - from: DWWLC   to: 
+After - from:    to: DWWLC
+
+move: 6   from: 7   to: 2
+Before - from: NNCNMCGZMZQGWGJVHWVTBPD   to: TFNWJSWGGDGHN
+After - from: NNCNMCGZMZQGWGJVH   to: TFNWJSWGGDGHNWVTBPD
+
+move: 3   from: 6   to: 4
+Before - from: DWWLC   to: 
+After - from: DW   to: WLC
+
+move: 3   from: 7   to: 4
+Before - from: NNCNMCGZMZQGWGJVH   to: WLC
+After - from: NNCNMCGZMZQGWG   to: WLCJVH
+
+move: 12   from: 7   to: 6
+Before - from: NNCNMCGZMZQGWG   to: DW
+After - from: NN   to: DWCNMCGZMZQGWG
+
+move: 5   from: 4   to: 1
+Before - from: WLCJVH   to: 
+After - from: W   to: LCJVH
+
+move: 2   from: 7   to: 4
+Before - from: NN   to: W
+After - from:    to: WNN
+
+move: 3   from: 4   to: 6
+Before - from: WNN   to: DWCNMCGZMZQGWG
+After - from:    to: DWCNMCGZMZQGWGWNN
+
+move: 16   from: 6   to: 3
+Before - from: DWCNMCGZMZQGWGWNN   to: 
+After - from: D   to: WCNMCGZMZQGWGWNN
+
+move: 4   from: 1   to: 4
+Before - from: LCJVH   to: 
+After - from: L   to: CJVH
+
+move: 1   from: 1   to: 9
+Before - from: L   to: SMGVRBCJRCFRJJS
+After - from:    to: SMGVRBCJRCFRJJSL
+
+move: 3   from: 9   to: 2
+Before - from: SMGVRBCJRCFRJJSL   to: TFNWJSWGGDGHNWVTBPD
+After - from: SMGVRBCJRCFRJ   to: TFNWJSWGGDGHNWVTBPDJSL
+
+move: 1   from: 4   to: 6
+Before - from: CJVH   to: D
+After - from: CJV   to: DH
+
+move: 9   from: 3   to: 7
+Before - from: WCNMCGZMZQGWGWNN   to: 
+After - from: WCNMCGZ   to: MZQGWGWNN
+
+move: 2   from: 6   to: 3
+Before - from: DH   to: WCNMCGZ
+After - from:    to: WCNMCGZDH
+
+move: 3   from: 3   to: 9
+Before - from: WCNMCGZDH   to: SMGVRBCJRCFRJ
+After - from: WCNMCG   to: SMGVRBCJRCFRJZDH
+
+move: 15   from: 2   to: 7
+Before - from: TFNWJSWGGDGHNWVTBPDJSL   to: MZQGWGWNN
+After - from: TFNWJSW   to: MZQGWGWNNGGDGHNWVTBPDJSL
+
+move: 19   from: 7   to: 4
+Before - from: MZQGWGWNNGGDGHNWVTBPDJSL   to: CJV
+After - from: MZQGW   to: CJVGWNNGGDGHNWVTBPDJSL
+
+move: 15   from: 9   to: 2
+Before - from: SMGVRBCJRCFRJZDH   to: TFNWJSW
+After - from: S   to: TFNWJSWMGVRBCJRCFRJZDH
+
+move: 16   from: 2   to: 8
+Before - from: TFNWJSWMGVRBCJRCFRJZDH   to: 
+After - from: TFNWJS   to: WMGVRBCJRCFRJZDH
+
+move: 6   from: 3   to: 5
+Before - from: WCNMCG   to: 
+After - from:    to: WCNMCG
+
+move: 4   from: 7   to: 5
+Before - from: MZQGW   to: WCNMCG
+After - from: M   to: WCNMCGZQGW
+
+move: 15   from: 8   to: 7
+Before - from: WMGVRBCJRCFRJZDH   to: M
+After - from: W   to: MMGVRBCJRCFRJZDH
+
+move: 19   from: 4   to: 2
+Before - from: CJVGWNNGGDGHNWVTBPDJSL   to: TFNWJS
+After - from: CJV   to: TFNWJSGWNNGGDGHNWVTBPDJSL
+
+move: 1   from: 8   to: 3
+Before - from: W   to: 
+After - from:    to: W
+
+move: 16   from: 2   to: 1
+Before - from: TFNWJSGWNNGGDGHNWVTBPDJSL   to: 
+After - from: TFNWJSGWN   to: NGGDGHNWVTBPDJSL
+
+move: 9   from: 7   to: 6
+Before - from: MMGVRBCJRCFRJZDH   to: 
+After - from: MMGVRBC   to: JRCFRJZDH
+
+move: 7   from: 2   to: 8
+Before - from: TFNWJSGWN   to: 
+After - from: TF   to: NWJSGWN
+
+move: 2   from: 2   to: 7
+Before - from: TF   to: MMGVRBC
+After - from:    to: MMGVRBCTF
+
+move: 1   from: 9   to: 5
+Before - from: S   to: WCNMCGZQGW
+After - from:    to: WCNMCGZQGWS
+
+move: 1   from: 3   to: 4
+Before - from: W   to: CJV
+After - from:    to: CJVW
+
+move: 6   from: 1   to: 2
+Before - from: NGGDGHNWVTBPDJSL   to: 
+After - from: NGGDGHNWVT   to: BPDJSL
+
+move: 8   from: 5   to: 1
+Before - from: WCNMCGZQGWS   to: NGGDGHNWVT
+After - from: WCN   to: NGGDGHNWVTMCGZQGWS
+
+move: 1   from: 5   to: 1
+Before - from: WCN   to: NGGDGHNWVTMCGZQGWS
+After - from: WC   to: NGGDGHNWVTMCGZQGWSN
+
+move: 18   from: 1   to: 8
+Before - from: NGGDGHNWVTMCGZQGWSN   to: NWJSGWN
+After - from: N   to: NWJSGWNGGDGHNWVTMCGZQGWSN
+
+move: 7   from: 7   to: 5
+Before - from: MMGVRBCTF   to: WC
+After - from: MM   to: WCGVRBCTF
+
+move: 7   from: 5   to: 3
+Before - from: WCGVRBCTF   to: 
+After - from: WC   to: GVRBCTF
+
+move: 4   from: 3   to: 6
+Before - from: GVRBCTF   to: JRCFRJZDH
+After - from: GVR   to: JRCFRJZDHBCTF
+
+move: 13   from: 8   to: 5
+Before - from: NWJSGWNGGDGHNWVTMCGZQGWSN   to: WC
+After - from: NWJSGWNGGDGH   to: WCNWVTMCGZQGWSN
+
+move: 12   from: 8   to: 1
+Before - from: NWJSGWNGGDGH   to: N
+After - from:    to: NNWJSGWNGGDGH
+
+move: 5   from: 1   to: 6
+Before - from: NNWJSGWNGGDGH   to: JRCFRJZDHBCTF
+After - from: NNWJSGWN   to: JRCFRJZDHBCTFGGDGH
+
+move: 15   from: 5   to: 4
+Before - from: WCNWVTMCGZQGWSN   to: CJVW
+After - from:    to: CJVWWCNWVTMCGZQGWSN
+
+move: 1   from: 1   to: 6
+Before - from: NNWJSGWN   to: JRCFRJZDHBCTFGGDGH
+After - from: NNWJSGW   to: JRCFRJZDHBCTFGGDGHN
+
+move: 12   from: 6   to: 3
+Before - from: JRCFRJZDHBCTFGGDGHN   to: GVR
+After - from: JRCFRJZ   to: GVRDHBCTFGGDGHN
+
+move: 8   from: 3   to: 4
+Before - from: GVRDHBCTFGGDGHN   to: CJVWWCNWVTMCGZQGWSN
+After - from: GVRDHBC   to: CJVWWCNWVTMCGZQGWSNTFGGDGHN
+
+move: 2   from: 7   to: 3
+Before - from: MM   to: GVRDHBC
+After - from:    to: GVRDHBCMM
+
+move: 9   from: 3   to: 1
+Before - from: GVRDHBCMM   to: NNWJSGW
+After - from:    to: NNWJSGWGVRDHBCMM
+
+move: 5   from: 2   to: 9
+Before - from: BPDJSL   to: 
+After - from: B   to: PDJSL
+
+move: 16   from: 4   to: 3
+Before - from: CJVWWCNWVTMCGZQGWSNTFGGDGHN   to: 
+After - from: CJVWWCNWVTM   to: CGZQGWSNTFGGDGHN
+
+move: 10   from: 1   to: 3
+Before - from: NNWJSGWGVRDHBCMM   to: CGZQGWSNTFGGDGHN
+After - from: NNWJSG   to: CGZQGWSNTFGGDGHNWGVRDHBCMM
+
+move: 2   from: 1   to: 5
+Before - from: NNWJSG   to: 
+After - from: NNWJ   to: SG
+
+move: 1   from: 3   to: 1
+Before - from: CGZQGWSNTFGGDGHNWGVRDHBCMM   to: NNWJ
+After - from: CGZQGWSNTFGGDGHNWGVRDHBCM   to: NNWJM
+
+move: 5   from: 6   to: 1
+Before - from: JRCFRJZ   to: NNWJM
+After - from: JR   to: NNWJMCFRJZ
+
+move: 4   from: 9   to: 3
+Before - from: PDJSL   to: CGZQGWSNTFGGDGHNWGVRDHBCM
+After - from: P   to: CGZQGWSNTFGGDGHNWGVRDHBCMDJSL
+
+move: 1   from: 2   to: 8
+Before - from: B   to: 
+After - from:    to: B
+
+move: 1   from: 8   to: 1
+Before - from: B   to: NNWJMCFRJZ
+After - from:    to: NNWJMCFRJZB
+
+move: 1   from: 9   to: 8
+Before - from: P   to: 
+After - from:    to: P
+
+move: 2   from: 5   to: 9
+Before - from: SG   to: 
+After - from:    to: SG
+
+move: 9   from: 4   to: 1
+Before - from: CJVWWCNWVTM   to: NNWJMCFRJZB
+After - from: CJ   to: NNWJMCFRJZBVWWCNWVTM
+
+move: 3   from: 1   to: 3
+Before - from: NNWJMCFRJZBVWWCNWVTM   to: CGZQGWSNTFGGDGHNWGVRDHBCMDJSL
+After - from: NNWJMCFRJZBVWWCNW   to: CGZQGWSNTFGGDGHNWGVRDHBCMDJSLVTM
+
+move: 2   from: 6   to: 8
+Before - from: JR   to: P
+After - from:    to: PJR
+
+move: 3   from: 8   to: 5
+Before - from: PJR   to: 
+After - from:    to: PJR
+
+move: 2   from: 1   to: 5
+Before - from: NNWJMCFRJZBVWWCNW   to: PJR
+After - from: NNWJMCFRJZBVWWC   to: PJRNW
+
+move: 2   from: 9   to: 8
+Before - from: SG   to: 
+After - from:    to: SG
+
+move: 1   from: 8   to: 6
+Before - from: SG   to: 
+After - from: S   to: G
+
+move: 2   from: 5   to: 3
+Before - from: PJRNW   to: CGZQGWSNTFGGDGHNWGVRDHBCMDJSLVTM
+After - from: PJR   to: CGZQGWSNTFGGDGHNWGVRDHBCMDJSLVTMNW
+
+move: 19   from: 3   to: 1
+Before - from: CGZQGWSNTFGGDGHNWGVRDHBCMDJSLVTMNW   to: NNWJMCFRJZBVWWC
+After - from: CGZQGWSNTFGGDGH   to: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNW
+
+move: 2   from: 4   to: 2
+Before - from: CJ   to: 
+After - from:    to: CJ
+
+move: 1   from: 5   to: 6
+Before - from: PJR   to: G
+After - from: PJ   to: GR
+
+move: 2   from: 2   to: 3
+Before - from: CJ   to: CGZQGWSNTFGGDGH
+After - from:    to: CGZQGWSNTFGGDGHCJ
+
+move: 1   from: 8   to: 6
+Before - from: S   to: GR
+After - from:    to: GRS
+
+move: 8   from: 3   to: 9
+Before - from: CGZQGWSNTFGGDGHCJ   to: 
+After - from: CGZQGWSNT   to: FGGDGHCJ
+
+move: 6   from: 3   to: 7
+Before - from: CGZQGWSNT   to: 
+After - from: CGZ   to: QGWSNT
+
+move: 2   from: 6   to: 2
+Before - from: GRS   to: 
+After - from: G   to: RS
+
+move: 1   from: 6   to: 1
+Before - from: G   to: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNW
+After - from:    to: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNWG
+
+move: 1   from: 1   to: 8
+Before - from: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNWG   to: 
+After - from: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNW   to: G
+
+move: 1   from: 8   to: 9
+Before - from: G   to: FGGDGHCJ
+After - from:    to: FGGDGHCJG
+
+move: 1   from: 7   to: 3
+Before - from: QGWSNT   to: CGZ
+After - from: QGWSN   to: CGZT
+
+move: 19   from: 1   to: 5
+Before - from: NNWJMCFRJZBVWWCNWGVRDHBCMDJSLVTMNW   to: PJ
+After - from: NNWJMCFRJZBVWWC   to: PJNWGVRDHBCMDJSLVTMNW
+
+move: 21   from: 5   to: 2
+Before - from: PJNWGVRDHBCMDJSLVTMNW   to: RS
+After - from:    to: RSPJNWGVRDHBCMDJSLVTMNW
+
+move: 13   from: 2   to: 6
+Before - from: RSPJNWGVRDHBCMDJSLVTMNW   to: 
+After - from: RSPJNWGVRD   to: HBCMDJSLVTMNW
+
+move: 13   from: 1   to: 8
+Before - from: NNWJMCFRJZBVWWC   to: 
+After - from: NN   to: WJMCFRJZBVWWC
+
+move: 7   from: 9   to: 7
+Before - from: FGGDGHCJG   to: QGWSN
+After - from: FG   to: QGWSNGDGHCJG
+
+move: 2   from: 9   to: 2
+Before - from: FG   to: RSPJNWGVRD
+After - from:    to: RSPJNWGVRDFG
+
+move: 10   from: 8   to: 3
+Before - from: WJMCFRJZBVWWC   to: CGZT
+After - from: WJM   to: CGZTCFRJZBVWWC
+
+move: 1   from: 1   to: 6
+Before - from: NN   to: HBCMDJSLVTMNW
+After - from: N   to: HBCMDJSLVTMNWN
+
+move: 10   from: 2   to: 4
+Before - from: RSPJNWGVRDFG   to: 
+After - from: RS   to: PJNWGVRDFG
+
+move: 11   from: 3   to: 5
+Before - from: CGZTCFRJZBVWWC   to: 
+After - from: CGZ   to: TCFRJZBVWWC
+
+move: 8   from: 5   to: 6
+Before - from: TCFRJZBVWWC   to: HBCMDJSLVTMNWN
+After - from: TCF   to: HBCMDJSLVTMNWNRJZBVWWC
+
+move: 1   from: 3   to: 7
+Before - from: CGZ   to: QGWSNGDGHCJG
+After - from: CG   to: QGWSNGDGHCJGZ
+
+move: 2   from: 8   to: 6
+Before - from: WJM   to: HBCMDJSLVTMNWNRJZBVWWC
+After - from: W   to: HBCMDJSLVTMNWNRJZBVWWCJM
+
+move: 2   from: 2   to: 8
+Before - from: RS   to: W
+After - from:    to: WRS
+
+move: 3   from: 7   to: 6
+Before - from: QGWSNGDGHCJGZ   to: HBCMDJSLVTMNWNRJZBVWWCJM
+After - from: QGWSNGDGHC   to: HBCMDJSLVTMNWNRJZBVWWCJMJGZ
+
+move: 2   from: 8   to: 6
+Before - from: WRS   to: HBCMDJSLVTMNWNRJZBVWWCJMJGZ
+After - from: W   to: HBCMDJSLVTMNWNRJZBVWWCJMJGZRS
+
+move: 1   from: 1   to: 2
+Before - from: N   to: 
+After - from:    to: N
+
+move: 24   from: 6   to: 5
+Before - from: HBCMDJSLVTMNWNRJZBVWWCJMJGZRS   to: TCF
+After - from: HBCMD   to: TCFJSLVTMNWNRJZBVWWCJMJGZRS
+
+move: 2   from: 3   to: 8
+Before - from: CG   to: W
+After - from:    to: WCG
+
+move: 1   from: 8   to: 6
+Before - from: WCG   to: HBCMD
+After - from: WC   to: HBCMDG
+
+move: 7   from: 7   to: 9
+Before - from: QGWSNGDGHC   to: 
+After - from: QGW   to: SNGDGHC
+
+move: 4   from: 6   to: 9
+Before - from: HBCMDG   to: SNGDGHC
+After - from: HB   to: SNGDGHCCMDG
+
+move: 1   from: 8   to: 9
+Before - from: WC   to: SNGDGHCCMDG
+After - from: W   to: SNGDGHCCMDGC
+
+move: 21   from: 5   to: 9
+Before - from: TCFJSLVTMNWNRJZBVWWCJMJGZRS   to: SNGDGHCCMDGC
+After - from: TCFJSL   to: SNGDGHCCMDGCVTMNWNRJZBVWWCJMJGZRS
+
+move: 2   from: 7   to: 2
+Before - from: QGW   to: N
+After - from: Q   to: NGW
+
+move: 1   from: 8   to: 5
+Before - from: W   to: TCFJSL
+After - from:    to: TCFJSLW
+
+move: 1   from: 7   to: 3
+Before - from: Q   to: 
+After - from:    to: Q
+
+move: 12   from: 9   to: 6
+Before - from: SNGDGHCCMDGCVTMNWNRJZBVWWCJMJGZRS   to: HB
+After - from: SNGDGHCCMDGCVTMNWNRJZ   to: HBBVWWCJMJGZRS
+
+move: 6   from: 6   to: 3
+Before - from: HBBVWWCJMJGZRS   to: Q
+After - from: HBBVWWCJ   to: QMJGZRS
+
+move: 12   from: 9   to: 4
+Before - from: SNGDGHCCMDGCVTMNWNRJZ   to: PJNWGVRDFG
+After - from: SNGDGHCCM   to: PJNWGVRDFGDGCVTMNWNRJZ
+
+move: 4   from: 5   to: 6
+Before - from: TCFJSLW   to: HBBVWWCJ
+After - from: TCF   to: HBBVWWCJJSLW
+
+move: 13   from: 4   to: 2
+Before - from: PJNWGVRDFGDGCVTMNWNRJZ   to: NGW
+After - from: PJNWGVRDF   to: NGWGDGCVTMNWNRJZ
+
+move: 8   from: 4   to: 8
+Before - from: PJNWGVRDF   to: 
+After - from: P   to: JNWGVRDF
+
+move: 10   from: 6   to: 8
+Before - from: HBBVWWCJJSLW   to: JNWGVRDF
+After - from: HB   to: JNWGVRDFBVWWCJJSLW
+
+move: 11   from: 8   to: 9
+Before - from: JNWGVRDFBVWWCJJSLW   to: SNGDGHCCM
+After - from: JNWGVRD   to: SNGDGHCCMFBVWWCJJSLW
+
+move: 4   from: 8   to: 4
+Before - from: JNWGVRD   to: P
+After - from: JNW   to: PGVRD
+
+move: 2   from: 4   to: 3
+Before - from: PGVRD   to: QMJGZRS
+After - from: PGV   to: QMJGZRSRD
+
+move: 8   from: 3   to: 8
+Before - from: QMJGZRSRD   to: JNW
+After - from: Q   to: JNWMJGZRSRD
+
+move: 2   from: 6   to: 8
+Before - from: HB   to: JNWMJGZRSRD
+After - from:    to: JNWMJGZRSRDHB
+
+move: 1   from: 3   to: 8
+Before - from: Q   to: JNWMJGZRSRDHB
+After - from:    to: JNWMJGZRSRDHBQ
+
+move: 6   from: 2   to: 4
+Before - from: NGWGDGCVTMNWNRJZ   to: PGV
+After - from: NGWGDGCVTM   to: PGVNWNRJZ
+
+move: 1   from: 4   to: 8
+Before - from: PGVNWNRJZ   to: JNWMJGZRSRDHBQ
+After - from: PGVNWNRJ   to: JNWMJGZRSRDHBQZ
+
+move: 1   from: 9   to: 7
+Before - from: SNGDGHCCMFBVWWCJJSLW   to: 
+After - from: SNGDGHCCMFBVWWCJJSL   to: W
+
+move: 13   from: 8   to: 4
+Before - from: JNWMJGZRSRDHBQZ   to: PGVNWNRJ
+After - from: JN   to: PGVNWNRJWMJGZRSRDHBQZ
+
+move: 1   from: 7   to: 1
+Before - from: W   to: 
+After - from:    to: W
+
+move: 1   from: 1   to: 4
+Before - from: W   to: PGVNWNRJWMJGZRSRDHBQZ
+After - from:    to: PGVNWNRJWMJGZRSRDHBQZW
+
+move: 8   from: 4   to: 7
+Before - from: PGVNWNRJWMJGZRSRDHBQZW   to: 
+After - from: PGVNWNRJWMJGZR   to: SRDHBQZW
+
+move: 3   from: 5   to: 7
+Before - from: TCF   to: SRDHBQZW
+After - from:    to: SRDHBQZWTCF
+
+move: 19   from: 9   to: 7
+Before - from: SNGDGHCCMFBVWWCJJSL   to: SRDHBQZWTCF
+After - from:    to: SRDHBQZWTCFSNGDGHCCMFBVWWCJJSL
+
+move: 3   from: 2   to: 7
+Before - from: NGWGDGCVTM   to: SRDHBQZWTCFSNGDGHCCMFBVWWCJJSL
+After - from: NGWGDGC   to: SRDHBQZWTCFSNGDGHCCMFBVWWCJJSLVTM
+
+move: 1   from: 8   to: 2
+Before - from: JN   to: NGWGDGC
+After - from: J   to: NGWGDGCN
+
+move: 13   from: 7   to: 6
+Before - from: SRDHBQZWTCFSNGDGHCCMFBVWWCJJSLVTM   to: 
+After - from: SRDHBQZWTCFSNGDGHCCM   to: FBVWWCJJSLVTM
+
+move: 1   from: 2   to: 4
+Before - from: NGWGDGCN   to: PGVNWNRJWMJGZR
+After - from: NGWGDGC   to: PGVNWNRJWMJGZRN
+
+move: 4   from: 6   to: 2
+Before - from: FBVWWCJJSLVTM   to: NGWGDGC
+After - from: FBVWWCJJS   to: NGWGDGCLVTM
+
+move: 1   from: 8   to: 3
+Before - from: J   to: 
+After - from:    to: J
+
+move: 7   from: 6   to: 8
+Before - from: FBVWWCJJS   to: 
+After - from: FB   to: VWWCJJS
+
+move: 1   from: 6   to: 2
+Before - from: FB   to: NGWGDGCLVTM
+After - from: F   to: NGWGDGCLVTMB
+
+move: 1   from: 2   to: 7
+Before - from: NGWGDGCLVTMB   to: SRDHBQZWTCFSNGDGHCCM
+After - from: NGWGDGCLVTM   to: SRDHBQZWTCFSNGDGHCCMB
+
+move: 9   from: 2   to: 3
+Before - from: NGWGDGCLVTM   to: J
+After - from: NG   to: JWGDGCLVTM
+
+move: 1   from: 6   to: 2
+Before - from: F   to: NG
+After - from:    to: NGF
+
+move: 21   from: 7   to: 5
+Before - from: SRDHBQZWTCFSNGDGHCCMB   to: 
+After - from:    to: SRDHBQZWTCFSNGDGHCCMB
+
+move: 9   from: 5   to: 3
+Before - from: SRDHBQZWTCFSNGDGHCCMB   to: JWGDGCLVTM
+After - from: SRDHBQZWTCFS   to: JWGDGCLVTMNGDGHCCMB
+
+move: 19   from: 3   to: 9
+Before - from: JWGDGCLVTMNGDGHCCMB   to: 
+After - from:    to: JWGDGCLVTMNGDGHCCMB
+
+move: 5   from: 8   to: 5
+Before - from: VWWCJJS   to: SRDHBQZWTCFS
+After - from: VW   to: SRDHBQZWTCFSWCJJS
+
+move: 2   from: 2   to: 1
+Before - from: NGF   to: 
+After - from: N   to: GF
+
+move: 2   from: 1   to: 8
+Before - from: GF   to: VW
+After - from:    to: VWGF
+
+move: 6   from: 4   to: 5
+Before - from: PGVNWNRJWMJGZRN   to: SRDHBQZWTCFSWCJJS
+After - from: PGVNWNRJW   to: SRDHBQZWTCFSWCJJSMJGZRN
+
+move: 3   from: 8   to: 7
+Before - from: VWGF   to: 
+After - from: V   to: WGF
+
+move: 15   from: 9   to: 2
+Before - from: JWGDGCLVTMNGDGHCCMB   to: N
+After - from: JWGD   to: NGCLVTMNGDGHCCMB
+
+move: 2   from: 2   to: 5
+Before - from: NGCLVTMNGDGHCCMB   to: SRDHBQZWTCFSWCJJSMJGZRN
+After - from: NGCLVTMNGDGHCC   to: SRDHBQZWTCFSWCJJSMJGZRNMB
+
+move: 3   from: 9   to: 6
+Before - from: JWGD   to: 
+After - from: J   to: WGD
+
+move: 5   from: 4   to: 5
+Before - from: PGVNWNRJW   to: SRDHBQZWTCFSWCJJSMJGZRNMB
+After - from: PGVN   to: SRDHBQZWTCFSWCJJSMJGZRNMBWNRJW
+
+move: 11   from: 2   to: 6
+Before - from: NGCLVTMNGDGHCC   to: WGD
+After - from: NGC   to: WGDLVTMNGDGHCC
+
+move: 1   from: 8   to: 6
+Before - from: V   to: WGDLVTMNGDGHCC
+After - from:    to: WGDLVTMNGDGHCCV
+
+move: 1   from: 9   to: 5
+Before - from: J   to: SRDHBQZWTCFSWCJJSMJGZRNMBWNRJW
+After - from:    to: SRDHBQZWTCFSWCJJSMJGZRNMBWNRJWJ
+
+move: 1   from: 7   to: 3
+Before - from: WGF   to: 
+After - from: WG   to: F
+
+move: 6   from: 5   to: 6
+Before - from: SRDHBQZWTCFSWCJJSMJGZRNMBWNRJWJ   to: WGDLVTMNGDGHCCV
+After - from: SRDHBQZWTCFSWCJJSMJGZRNMB   to: WGDLVTMNGDGHCCVWNRJWJ
+
+move: 1   from: 4   to: 6
+Before - from: PGVN   to: WGDLVTMNGDGHCCVWNRJWJ
+After - from: PGV   to: WGDLVTMNGDGHCCVWNRJWJN
+
+move: 1   from: 3   to: 4
+Before - from: F   to: PGV
+After - from:    to: PGVF
+
+move: 13   from: 5   to: 2
+Before - from: SRDHBQZWTCFSWCJJSMJGZRNMB   to: NGC
+After - from: SRDHBQZWTCFS   to: NGCWCJJSMJGZRNMB
+
+move: 16   from: 6   to: 9
+Before - from: WGDLVTMNGDGHCCVWNRJWJN   to: 
+After - from: WGDLVT   to: MNGDGHCCVWNRJWJN
+
+move: 4   from: 4   to: 5
+Before - from: PGVF   to: SRDHBQZWTCFS
+After - from:    to: SRDHBQZWTCFSPGVF
+
+move: 2   from: 6   to: 2
+Before - from: WGDLVT   to: NGCWCJJSMJGZRNMB
+After - from: WGDL   to: NGCWCJJSMJGZRNMBVT
+
+move: 2   from: 6   to: 4
+Before - from: WGDL   to: 
+After - from: WG   to: DL
+
+move: 2   from: 4   to: 5
+Before - from: DL   to: SRDHBQZWTCFSPGVF
+After - from:    to: SRDHBQZWTCFSPGVFDL
+
+move: 2   from: 7   to: 8
+Before - from: WG   to: 
+After - from:    to: WG
+
+move: 2   from: 6   to: 3
+Before - from: WG   to: 
+After - from:    to: WG
+
+move: 2   from: 5   to: 8
+Before - from: SRDHBQZWTCFSPGVFDL   to: WG
+After - from: SRDHBQZWTCFSPGVF   to: WGDL
+
+move: 14   from: 5   to: 7
+Before - from: SRDHBQZWTCFSPGVF   to: 
+After - from: SR   to: DHBQZWTCFSPGVF
+
+move: 4   from: 8   to: 1
+Before - from: WGDL   to: 
+After - from:    to: WGDL
+
+move: 4   from: 1   to: 6
+Before - from: WGDL   to: 
+After - from:    to: WGDL
+
+move: 1   from: 3   to: 9
+Before - from: WG   to: MNGDGHCCVWNRJWJN
+After - from: W   to: MNGDGHCCVWNRJWJNG
+
+move: 1   from: 6   to: 1
+Before - from: WGDL   to: 
+After - from: WGD   to: L
+
+move: 2   from: 7   to: 3
+Before - from: DHBQZWTCFSPGVF   to: W
+After - from: DHBQZWTCFSPG   to: WVF
+
+move: 2   from: 3   to: 7
+Before - from: WVF   to: DHBQZWTCFSPG
+After - from: W   to: DHBQZWTCFSPGVF
+
+move: 2   from: 5   to: 2
+Before - from: SR   to: NGCWCJJSMJGZRNMBVT
+After - from:    to: NGCWCJJSMJGZRNMBVTSR
+
+move: 9   from: 9   to: 2
+Before - from: MNGDGHCCVWNRJWJNG   to: NGCWCJJSMJGZRNMBVTSR
+After - from: MNGDGHCC   to: NGCWCJJSMJGZRNMBVTSRVWNRJWJNG
+
+move: 13   from: 7   to: 3
+Before - from: DHBQZWTCFSPGVF   to: W
+After - from: D   to: WHBQZWTCFSPGVF
+
+move: 12   from: 3   to: 9
+Before - from: WHBQZWTCFSPGVF   to: MNGDGHCC
+After - from: WH   to: MNGDGHCCBQZWTCFSPGVF
+
+move: 2   from: 6   to: 8
+Before - from: WGD   to: 
+After - from: W   to: GD
+
+move: 14   from: 2   to: 9
+Before - from: NGCWCJJSMJGZRNMBVTSRVWNRJWJNG   to: MNGDGHCCBQZWTCFSPGVF
+After - from: NGCWCJJSMJGZRNM   to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJNG
+
+move: 2   from: 8   to: 9
+Before - from: GD   to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJNG
+After - from:    to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJNGGD
+
+move: 10   from: 2   to: 1
+Before - from: NGCWCJJSMJGZRNM   to: L
+After - from: NGCWC   to: LJJSMJGZRNM
+
+move: 1   from: 7   to: 4
+Before - from: D   to: 
+After - from:    to: D
+
+move: 2   from: 3   to: 8
+Before - from: WH   to: 
+After - from:    to: WH
+
+move: 4   from: 2   to: 1
+Before - from: NGCWC   to: LJJSMJGZRNM
+After - from: N   to: LJJSMJGZRNMGCWC
+
+move: 1   from: 8   to: 3
+Before - from: WH   to: 
+After - from: W   to: H
+
+move: 1   from: 2   to: 6
+Before - from: N   to: W
+After - from:    to: WN
+
+move: 1   from: 8   to: 3
+Before - from: W   to: H
+After - from:    to: HW
+
+move: 4   from: 9   to: 4
+Before - from: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJNGGD   to: D
+After - from: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJ   to: DNGGD
+
+move: 1   from: 3   to: 5
+Before - from: HW   to: 
+After - from: H   to: W
+
+move: 1   from: 5   to: 1
+Before - from: W   to: LJJSMJGZRNMGCWC
+After - from:    to: LJJSMJGZRNMGCWCW
+
+move: 1   from: 3   to: 9
+Before - from: H   to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJ
+After - from:    to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJH
+
+move: 12   from: 1   to: 8
+Before - from: LJJSMJGZRNMGCWCW   to: 
+After - from: LJJS   to: MJGZRNMGCWCW
+
+move: 10   from: 8   to: 5
+Before - from: MJGZRNMGCWCW   to: 
+After - from: MJ   to: GZRNMGCWCW
+
+move: 7   from: 5   to: 6
+Before - from: GZRNMGCWCW   to: WN
+After - from: GZR   to: WNNMGCWCW
+
+move: 1   from: 1   to: 9
+Before - from: LJJS   to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJH
+After - from: LJJ   to: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJHS
+
+move: 3   from: 5   to: 1
+Before - from: GZR   to: LJJ
+After - from:    to: LJJGZR
+
+move: 1   from: 1   to: 3
+Before - from: LJJGZR   to: 
+After - from: LJJGZ   to: R
+
+move: 16   from: 9   to: 7
+Before - from: MNGDGHCCBQZWTCFSPGVFBVTSRVWNRJWJHS   to: 
+After - from: MNGDGHCCBQZWTCFSPG   to: VFBVTSRVWNRJWJHS
+
+move: 4   from: 4   to: 3
+Before - from: DNGGD   to: R
+After - from: D   to: RNGGD
+
+move: 1   from: 4   to: 9
+Before - from: D   to: MNGDGHCCBQZWTCFSPG
+After - from:    to: MNGDGHCCBQZWTCFSPGD
+
+move: 15   from: 7   to: 8
+Before - from: VFBVTSRVWNRJWJHS   to: MJ
+After - from: V   to: MJFBVTSRVWNRJWJHS
+
+move: 15   from: 9   to: 1
+Before - from: MNGDGHCCBQZWTCFSPGD   to: LJJGZ
+After - from: MNGD   to: LJJGZGHCCBQZWTCFSPGD
+
+move: 8   from: 1   to: 6
+Before - from: LJJGZGHCCBQZWTCFSPGD   to: WNNMGCWCW
+After - from: LJJGZGHCCBQZ   to: WNNMGCWCWWTCFSPGD
+
+move: 1   from: 9   to: 3
+Before - from: MNGD   to: RNGGD
+After - from: MNG   to: RNGGDD
+
+move: 17   from: 6   to: 2
+Before - from: WNNMGCWCWWTCFSPGD   to: 
+After - from:    to: WNNMGCWCWWTCFSPGD
+
+move: 1   from: 9   to: 1
+Before - from: MNG   to: LJJGZGHCCBQZ
+After - from: MN   to: LJJGZGHCCBQZG
+
+move: 15   from: 2   to: 7
+Before - from: WNNMGCWCWWTCFSPGD   to: V
+After - from: WN   to: VNMGCWCWWTCFSPGD
+
+move: 14   from: 8   to: 9
+Before - from: MJFBVTSRVWNRJWJHS   to: MN
+After - from: MJF   to: MNBVTSRVWNRJWJHS
+
+move: 12   from: 7   to: 9
+Before - from: VNMGCWCWWTCFSPGD   to: MNBVTSRVWNRJWJHS
+After - from: VNMG   to: MNBVTSRVWNRJWJHSCWCWWTCFSPGD
+
+move: 12   from: 9   to: 3
+Before - from: MNBVTSRVWNRJWJHSCWCWWTCFSPGD   to: RNGGDD
+After - from: MNBVTSRVWNRJWJHS   to: RNGGDDCWCWWTCFSPGD
+
+move: 3   from: 7   to: 9
+Before - from: VNMG   to: MNBVTSRVWNRJWJHS
+After - from: V   to: MNBVTSRVWNRJWJHSNMG
+
+move: 1   from: 7   to: 4
+Before - from: V   to: 
+After - from:    to: V
+
+move: 7   from: 9   to: 6
+Before - from: MNBVTSRVWNRJWJHSNMG   to: 
+After - from: MNBVTSRVWNRJ   to: WJHSNMG
+
+move: 1   from: 4   to: 6
+Before - from: V   to: WJHSNMG
+After - from:    to: WJHSNMGV
+
+move: 11   from: 9   to: 6
+Before - from: MNBVTSRVWNRJ   to: WJHSNMGV
+After - from: M   to: WJHSNMGVNBVTSRVWNRJ
+
+move: 2   from: 1   to: 2
+Before - from: LJJGZGHCCBQZG   to: WN
+After - from: LJJGZGHCCBQ   to: WNZG
+
+move: 18   from: 6   to: 4
+Before - from: WJHSNMGVNBVTSRVWNRJ   to: 
+After - from: W   to: JHSNMGVNBVTSRVWNRJ
+
+move: 4   from: 2   to: 7
+Before - from: WNZG   to: 
+After - from:    to: WNZG
+
+move: 2   from: 7   to: 3
+Before - from: WNZG   to: RNGGDDCWCWWTCFSPGD
+After - from: WN   to: RNGGDDCWCWWTCFSPGDZG
+
+move: 2   from: 7   to: 8
+Before - from: WN   to: MJF
+After - from:    to: MJFWN
+
+move: 4   from: 1   to: 5
+Before - from: LJJGZGHCCBQ   to: 
+After - from: LJJGZGH   to: CCBQ
+
+move: 1   from: 9   to: 2
+Before - from: M   to: 
+After - from:    to: M
+
+move: 2   from: 5   to: 4
+Before - from: CCBQ   to: JHSNMGVNBVTSRVWNRJ
+After - from: CC   to: JHSNMGVNBVTSRVWNRJBQ
+
+move: 5   from: 1   to: 3
+Before - from: LJJGZGH   to: RNGGDDCWCWWTCFSPGDZG
+After - from: LJ   to: RNGGDDCWCWWTCFSPGDZGJGZGH
+
+move: 2   from: 3   to: 7
+Before - from: RNGGDDCWCWWTCFSPGDZGJGZGH   to: 
+After - from: RNGGDDCWCWWTCFSPGDZGJGZ   to: GH
+
+move: 2   from: 3   to: 9
+Before - from: RNGGDDCWCWWTCFSPGDZGJGZ   to: 
+After - from: RNGGDDCWCWWTCFSPGDZGJ   to: GZ
+
+move: 1   from: 6   to: 7
+Before - from: W   to: GH
+After - from:    to: GHW
+
+move: 1   from: 2   to: 9
+Before - from: M   to: GZ
+After - from:    to: GZM
+
+move: 2   from: 8   to: 1
+Before - from: MJFWN   to: LJ
+After - from: MJF   to: LJWN
+
+move: 3   from: 1   to: 3
+Before - from: LJWN   to: RNGGDDCWCWWTCFSPGDZGJ
+After - from: L   to: RNGGDDCWCWWTCFSPGDZGJJWN
+
+move: 2   from: 5   to: 8
+Before - from: CC   to: MJF
+After - from:    to: MJFCC
+
+move: 2   from: 3   to: 5
+Before - from: RNGGDDCWCWWTCFSPGDZGJJWN   to: 
+After - from: RNGGDDCWCWWTCFSPGDZGJJ   to: WN
+
+move: 1   from: 5   to: 2
+Before - from: WN   to: 
+After - from: W   to: N
+
+move: 1   from: 1   to: 3
+Before - from: L   to: RNGGDDCWCWWTCFSPGDZGJJ
+After - from:    to: RNGGDDCWCWWTCFSPGDZGJJL
+
+move: 1   from: 9   to: 2
+Before - from: GZM   to: N
+After - from: GZ   to: NM
+
+move: 1   from: 9   to: 1
+Before - from: GZ   to: 
+After - from: G   to: Z
+
+move: 3   from: 7   to: 6
+Before - from: GHW   to: 
+After - from:    to: GHW
+
+move: 1   from: 1   to: 9
+Before - from: Z   to: G
+After - from:    to: GZ
+
+move: 2   from: 8   to: 9
+Before - from: MJFCC   to: GZ
+After - from: MJF   to: GZCC
+
+move: 1   from: 2   to: 3
+Before - from: NM   to: RNGGDDCWCWWTCFSPGDZGJJL
+After - from: N   to: RNGGDDCWCWWTCFSPGDZGJJLM
+
+move: 2   from: 8   to: 2
+Before - from: MJF   to: N
+After - from: M   to: NJF
+
+move: 2   from: 6   to: 5
+Before - from: GHW   to: W
+After - from: G   to: WHW
+
+move: 1   from: 8   to: 5
+Before - from: M   to: WHW
+After - from:    to: WHWM
+
+move: 3   from: 2   to: 5
+Before - from: NJF   to: WHWM
+After - from:    to: WHWMNJF
+
+move: 3   from: 4   to: 8
+Before - from: JHSNMGVNBVTSRVWNRJBQ   to: 
+After - from: JHSNMGVNBVTSRVWNR   to: JBQ
+
+move: 1   from: 8   to: 2
+Before - from: JBQ   to: 
+After - from: JB   to: Q
+
+move: 3   from: 9   to: 7
+Before - from: GZCC   to: 
+After - from: G   to: ZCC
+
+move: 3   from: 7   to: 1
+Before - from: ZCC   to: 
+After - from:    to: ZCC
+
+move: 1   from: 9   to: 6
+Before - from: G   to: G
+After - from:    to: GG
+
+move: 3   from: 1   to: 2
+Before - from: ZCC   to: Q
+After - from:    to: QZCC
+
+move: 2   from: 8   to: 7
+Before - from: JB   to: 
+After - from:    to: JB
+
+move: 2   from: 7   to: 9
+Before - from: JB   to: 
+After - from:    to: JB
+
+move: 2   from: 6   to: 5
+Before - from: GG   to: WHWMNJF
+After - from:    to: WHWMNJFGG
+
+move: 3   from: 5   to: 3
+Before - from: WHWMNJFGG   to: RNGGDDCWCWWTCFSPGDZGJJLM
+After - from: WHWMNJ   to: RNGGDDCWCWWTCFSPGDZGJJLMFGG
+
+move: 1   from: 2   to: 5
+Before - from: QZCC   to: WHWMNJ
+After - from: QZC   to: WHWMNJC
+
+move: 3   from: 2   to: 7
+Before - from: QZC   to: 
+After - from:    to: QZC
+
+move: 2   from: 5   to: 6
+Before - from: WHWMNJC   to: 
+After - from: WHWMN   to: JC
+
+move: 15   from: 4   to: 9
+Before - from: JHSNMGVNBVTSRVWNR   to: JB
+After - from: JH   to: JBSNMGVNBVTSRVWNR
+
+move: 1   from: 3   to: 1
+Before - from: RNGGDDCWCWWTCFSPGDZGJJLMFGG   to: 
+After - from: RNGGDDCWCWWTCFSPGDZGJJLMFG   to: G
+
+move: 25   from: 3   to: 4
+Before - from: RNGGDDCWCWWTCFSPGDZGJJLMFG   to: JH
+After - from: R   to: JHNGGDDCWCWWTCFSPGDZGJJLMFG
+
+move: 3   from: 7   to: 3
+Before - from: QZC   to: R
+After - from:    to: RQZC
+
+move: 5   from: 9   to: 5
+Before - from: JBSNMGVNBVTSRVWNR   to: WHWMN
+After - from: JBSNMGVNBVTS   to: WHWMNRVWNR
+
+move: 10   from: 9   to: 5
+Before - from: JBSNMGVNBVTS   to: WHWMNRVWNR
+After - from: JB   to: WHWMNRVWNRSNMGVNBVTS
+
+move: 9   from: 5   to: 1
+Before - from: WHWMNRVWNRSNMGVNBVTS   to: G
+After - from: WHWMNRVWNRS   to: GNMGVNBVTS
+
+move: 5   from: 5   to: 2
+Before - from: WHWMNRVWNRS   to: 
+After - from: WHWMNR   to: VWNRS
+
+move: 1   from: 6   to: 7
+Before - from: JC   to: 
+After - from: J   to: C
+
+move: 5   from: 5   to: 8
+Before - from: WHWMNR   to: 
+After - from: W   to: HWMNR
+
+a
+GNMGVNBVTS
+VWNRS
+RQZC
+JHNGGDDCWCWWTCFSPGDZGJJLMFG
+W
+J
+C
+HWMNR
+JB

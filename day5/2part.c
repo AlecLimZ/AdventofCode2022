@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   1part.c                                            :+:      :+:    :+:   */
+/*   2part.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: leng-chu <-chu@student.42kl.edu.my>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:07:53 by leng-chu          #+#    #+#             */
-/*   Updated: 2022/12/05 14:06:38 by leng-chu         ###   ########.fr       */
+/*   Updated: 2022/12/05 14:13:10 by leng-chu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,10 +70,11 @@ void	domove(int move, char *from, char *to)
 	int top = strlen(from); // it is NULL
 	char *m = (char *)malloc(sizeof(char) * (move + 1));
 	int p = -1;
+	int fi = top - move;
 	while (++p < move)
 	{
-		m[p] = from[--top];
-		from[top] = 0;
+		m[p] = from[fi];
+		from[fi++] = 0;
 	}
 	m[p] = '\0';
 	strcat(to, m);
