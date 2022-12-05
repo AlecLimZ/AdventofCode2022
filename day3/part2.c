@@ -6,7 +6,7 @@
 /*   By: leng-chu <-chu@student.42kl.edu.my>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:07:53 by leng-chu          #+#    #+#             */
-/*   Updated: 2022/12/03 13:59:44 by leng-chu         ###   ########.fr       */
+/*   Updated: 2022/12/05 22:58:21 by leng-chu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,18 +24,15 @@ char	ft_findctriple(char *s1, char *s2, char *s3)
 	int i = -1;
 	int j;
 	int k;
-	while (s1[++i] && s1[i] != '\n')
+	while (s1[++i])
 	{
 		j = -1;
-		while (s2[++j] && s2[j] != '\n')
+		while (s2[++j])
 		{
 			k = -1;
-			while (s3[++k] && s3[k] != '\n')
-			{
-//				printf("%c %c %c\n", s1[i], s2[j], s3[k]);
+			while (s3[++k])
 				if (s1[i] == s2[j] && s1[i] == s3[k])
 					return (s1[i]);
-			}
 		}
 	}
 	return (0);
@@ -71,7 +68,7 @@ int main(int ac, char **av)
 	// must
 	if (ac != 2)
 		return (0);
-	string1 = (char *)malloc(sizeof(char) * 43);
+	string1 = (char *)malloc(sizeof(char) * 50);
 	if (!string1)
 		exit(1);
 	if ((fptr = fopen(av[1], "r")) == NULL)
@@ -85,8 +82,8 @@ int main(int ac, char **av)
 	int sum = 0;
 	char *string2;
 	char *string3;
-	string2 = (char *)malloc(sizeof(char) * 43);
-	string3 = (char *)malloc(sizeof(char) * 43);
+	string2 = (char *)malloc(sizeof(char) * 50);
+	string3 = (char *)malloc(sizeof(char) * 50);
 	while ((ret = getline(&string1, &size, fptr)) != -1)
 	{
 		// -1 because of newline
