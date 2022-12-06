@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   1part.c                                            :+:      :+:    :+:   */
+/*   2part.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: leng-chu <-chu@student.42kl.edu.my>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:07:53 by leng-chu          #+#    #+#             */
-/*   Updated: 2022/12/06 13:30:24 by leng-chu         ###   ########.fr       */
+/*   Updated: 2022/12/06 13:30:17 by leng-chu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,13 +64,13 @@ int main(int ac, char **av)
 	{
 //		printf("STRING: %s", string);
 		int i = -1;
-		int len = strlen(string) - 4; // because of newline
+		int len = strlen(string) - 14; // because of newline
 		while (string[++i] && i < len)
 		{
-			fw = strndup(string + i, 4);
+			fw = strndup(string + i, 14);
 			if (is_mark(fw))
 			{
-				printf("%d\n", i + 4);
+				printf("%d\n", i + 14);
 				break ;
 			}
 		}
