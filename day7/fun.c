@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   template.c                                         :+:      :+:    :+:   */
+/*   fun.c                                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: leng-chu <-chu@student.42kl.edu.my>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/01 15:07:53 by leng-chu          #+#    #+#             */
-/*   Updated: 2022/12/07 12:58:20 by leng-chu         ###   ########.fr       */
+/*   Updated: 2022/12/07 14:20:38 by leng-chu         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <limits.h>
+#include <ctype.h>
 
 int main(int ac, char **av)
 {
@@ -39,12 +40,28 @@ int main(int ac, char **av)
 		exit(1);
 	}
 	// must + custom
+	int	*box = (int *)malloc(sizeof(int) * (INT_MAX / 2));
+	int bpos = 0;
+	int sum = 0;
+
+	// up to 100000
+	int limit = 100000;
+	int get = 0;
+	int index;
 	// x = lose, y = draw, z = win
+	int ls = 0;
+
+	// store dir names
 	while ((ret = getline(&string, &size, fptr)) != -1)
 	{
-		printf("%s", string);
+		index = 0;
+		while (string[index] && !isdigit(string[index]))
+			index++;
+		if (string[index])
+			printf("%d\n", atoi(string + index));
+		else
+			printf("%s", string);
 	}
-
 	// must
 	fclose(fptr);
 	free(string);
